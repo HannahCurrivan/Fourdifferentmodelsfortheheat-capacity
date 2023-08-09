@@ -9,8 +9,10 @@ These models included:
 - Debye Model
 - Debye Model Low-Temperature Limit
 
-## Breakdown the models:
+## Thermodynamic Laws:
 ### Dulong Petit:
+
+Taken from Britannica; "Dulong–Petit law, statement that the gram-atomic heat capacity (specific heat times atomic weight) of an element is a constant; that is, it is the same for all solid elements, about six calories per gram atom."
 
 
 ### Einstein Model:

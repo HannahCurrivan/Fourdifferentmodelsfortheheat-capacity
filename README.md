@@ -14,15 +14,22 @@ These models included:
 
 Taken from Britannica; "Dulong–Petit law, statement that the gram-atomic heat capacity (specific heat times atomic weight) of an element is a constant; that is, it is the same for all solid elements, about six calories per gram atom."
 
-![alt text]()
+![alt text](https://github.com/HannahCurrivan/Fourdifferentmodelsfortheheat-capacity/blob/main/DPL.JPG)
 
 ### Einstein Model:
 
 
+![alt text](https://github.com/HannahCurrivan/Fourdifferentmodelsfortheheat-capacity/blob/main/EM.JPG)
+
 ### Debye Model:
 
 
+![alt text](https://github.com/HannahCurrivan/Fourdifferentmodelsfortheheat-capacity/blob/main/DM.JPG)
+
 ### Debye Model Low-Temperature Limit:
+
+
+![alt text](https://github.com/HannahCurrivan/Fourdifferentmodelsfortheheat-capacity/blob/main/DLTM.JPG)
 
 ## Using Python to calculate the heat capacity of silicon:
 

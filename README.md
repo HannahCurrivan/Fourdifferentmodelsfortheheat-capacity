@@ -120,3 +120,5 @@ plt.show()
 ```
 
 The graphical outcome:
+
+![alt text]()

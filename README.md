@@ -121,4 +121,4 @@ plt.show()
 
 The graphical outcome:
 
-![alt text]()
+![alt text](https://github.com/HannahCurrivan/Fourdifferentmodelsfortheheat-capacity/blob/main/LDT.png)
